@@ -19,4 +19,4 @@ Created a new repository (alirosen_test) and created a README.
 
 5.) Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey?
 
-It was a little confusing to learn this completely on my own with no prior knowledge. Hopefully everything worked but it would be nice to go through it as a class.
+This was super useful! My bioinformatics teacher uses GitHub and I didn't know the platform before so this is helpful to gain familiarity.
