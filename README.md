@@ -20,3 +20,7 @@ Created a new repository (alirosen_test) and created a README.
 5.) Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey?
 
 This was super useful! My bioinformatics teacher uses GitHub and I didn't know the platform before so this is helpful to gain familiarity.
+
+Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about. Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+
+GitHub is useful for recording protocols and distributing to others.
